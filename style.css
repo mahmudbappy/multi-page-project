@@ -51,6 +51,9 @@ nav ul li a:hover{
 }
 /******************************* Nav Section *********************************/
 
+
+/****************************** Hero Area ************************************/
+
 header{
      background-image: url(img/metavarse.jpg);
      width: 100%;
@@ -84,3 +87,4 @@ header{
      border-radius: 0 5px 5px 0;
      cursor: pointer;
 }
+/****************************** Hero Area ************************************/
