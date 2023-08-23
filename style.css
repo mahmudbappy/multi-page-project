@@ -1,4 +1,9 @@
+     
+     /*************************** Font Family Link ****************************/
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+     /****************************** Body Section *****************************/
 
 *{
      margin: 0;
@@ -7,6 +12,12 @@
 body{
      font-family: 'Roboto', sans-serif;
 }
+
+ /****************************** Body Section *****************************/
+
+
+/******************************* Nav Section ******************************/
+
 img{
      margin-left: 100px;
 }
@@ -37,3 +48,4 @@ nav ul li a:hover{
      background-color: #fff;
      color: #0985e3;
 }
+/******************************* Nav Section *********************************/
